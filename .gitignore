@@ -1,0 +1,6 @@
+.vscode/
+assets/
+build/
+dist/
+config.json
+poe_trans.spec
