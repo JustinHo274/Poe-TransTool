@@ -4,3 +4,4 @@ build/
 dist/
 config.json
 poe_trans.spec
+poe_trans
